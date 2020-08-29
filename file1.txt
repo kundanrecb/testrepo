@@ -2,3 +2,4 @@ This is the fist file
 Added again
 The third line
 The fourth line
+The bad line
