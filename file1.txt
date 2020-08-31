@@ -1,14 +1,4 @@
 This is the fist file
-Added again
+The second line
 The third line
-The fourth line
-The bad line
-I am already a good developer
-I will be good devepor and follow the best practices going forward.
-I have added another line
 
-I am a bad dev.
-
-
-I am also following the best practices now.
-I am again a good one.
