@@ -2,5 +2,7 @@ This is the fist file
 The second line
 The third line
 
+
 Bad 4th line
 
+Good 4th line
